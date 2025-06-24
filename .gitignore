@@ -1,0 +1,9 @@
+# Ignoriere Umgebungsvariablen (z. B. Zugangsdaten)
+.env
+
+# Ignoriere Excel-Dateien (z. B. partnerliste)
+*.xlsx
+
+# Ignoriere Python-Cache-Dateien
+__pycache__/
+*.pyc

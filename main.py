@@ -11,31 +11,61 @@ Sehr geehrte Damen und Herren,
 
 mein Name ist Felix Laurent und ich bin bei Nordfracht für den Aufbau zuverlässiger Speditionspartnerschaften zuständig.
 
-Unsere Kunden – vor allem aus Industrie und E-Commerce – erwarten heute vor allem eines: Transparenz in der Lieferkette. Deshalb arbeiten wir mit der Impargo-App, um Echtzeit-Tracking in unsere Prozesse zu integrieren – für den Kunden, aber auch zur Optimierung auf Ihrer Seite.
+Unsere Kunden – insbesondere aus Industrie und E-Commerce – erwarten heute vor allem eines: Transparenz in der Lieferkette. Um dem gerecht zu werden, setzen wir auf eine intelligente Lösung: Mit der Impargo-App ermöglichen wir Echtzeit-Tracking, automatisierte Avisierungen und proaktive Kommunikation – für den Kunden, aber auch zur Entlastung Ihrer Fahrer und Disponenten.
 
-Wir suchen aktuell nach verlässlichen Partnern mit eigenem Fuhrpark, die sich einfach in unser System einbinden lassen. Die App ist leicht zu installieren und unkompliziert in der Nutzung – ohne zusätzliche Hardware.
+Wir sind aktuell auf der Suche nach verlässlichen Partnern mit eigenem Fuhrpark, die Transporte für uns übernehmen und von folgenden Vorteilen profitieren möchten:
 
-Haben Sie Interesse an einer Zusammenarbeit oder einem kurzen Austausch in den nächsten Tagen? Ich würde mich freuen, von Ihnen zu hören.
+- Direkte Aufträge von Nordfracht – ohne eigene Akquise
 
-Mit freundlichen Grüßen  
-Felix Laurent  
-Nordfracht GBR
+- Einfache App-Nutzung – kein Hardware-Einbau, keine technische Hürden
+
+- Weniger Rückfragen – unser Chatbot informiert Kunden automatisch über ETA, Adresse & Status
+
+- Effizientere Be- und Entladung – durch automatische Avisierung beim Kunden & Lager
+
+- Datenschutz garantiert – es wird keine GPS-Position übermittelt, nur die berechnete Ankunftszeit (ETA)
+
+- Keine Kosten für Sie – die App ist für Partner kostenlos
+
+Die App lässt sich in weniger als einer Minute starten, läuft stabil und wurde bereits erfolgreich mit zahlreichen Partnern getestet.
+
+Haben Sie Interesse an einer Zusammenarbeit oder einem kurzen Austausch in den nächsten Tagen?
+Ich würde mich freuen, von Ihnen zu hören.
+
+Mit freundlichen Grüßen
+Felix Laurent
+Nordfracht GbR
 """
 
 ENGLISCHER_TEXT = """
 Dear Sir or Madam,
 
-my name is Felix Laurent and I am responsible at Nordfracht for building reliable carrier partnerships.
+My name is Felix Laurent and I am responsible for building reliable carrier partnerships at Nordfracht.
 
-Our customers – especially in industry and e-commerce – expect one thing above all: transparency in the supply chain. That's why we use the Impargo app to integrate real-time tracking into our operations – both for the customer and to optimize your side.
+Our customers – especially from industry and e-commerce – increasingly expect transparency in the supply chain. To meet this demand, we work with the Impargo app to provide real-time tracking, automated notifications, and proactive communication – not only for the customer, but also to simplify your processes as a carrier.
 
-We are currently looking for reliable partners with their own fleet who can be easily integrated into our system. The app is easy to install and use – without any additional hardware.
+We are currently looking for reliable partners with their own fleet who can handle transports for us and benefit from the following advantages:
 
-Would you be interested in a collaboration or a short exchange in the next few days? I would be delighted to hear from you.
+- Direct transport orders from Nordfracht – no need for your own sales effort
 
-Kind regards  
-Felix Laurent  
-Nordfracht GBR
+- Simple app usage – no hardware installation or technical setup required
+
+- Fewer customer inquiries – our chatbot automatically informs recipients about ETA, delivery address, and status
+
+- Faster loading and unloading – through automatic notifications to the warehouse and customer
+
+- Data protection guaranteed – the driver’s GPS location is never shared – only the estimated time of arrival (ETA) is calculated
+
+- Completely free of charge – the app is free to use for our partners
+
+The app is easy to install, takes less than a minute to activate, and has already been successfully used with many of our partners.
+
+Would you be interested in a potential collaboration or a brief call in the coming days?
+I would be happy to hear from you.
+
+Kind regards,
+Felix Laurent
+Nordfracht GbR
 """
 
 uploaded_file = st.file_uploader("📄 Lade deine partnerliste.xlsx hoch", type=["xlsx"])
